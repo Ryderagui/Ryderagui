@@ -5,3 +5,5 @@ I am a Fullstack-Software engineer with a background as a former Senior Energy C
 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,css,python,django,redux,ruby,rails,github&perline=5)](https://skillicons.dev)
+
+I am currently contributing to open source projects and participating in hackathons. The best part of being a software engineer is building applications
