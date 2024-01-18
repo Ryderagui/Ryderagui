@@ -7,3 +7,5 @@ Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,css,python,django,redux,ruby,rails,github&perline=5)](https://skillicons.dev)
 
 I am currently contributing to open source projects and participating in hackathons. The best part of being a software engineer is building applications
+
+I am open for work. Contact me by email at ryderaguilera@hotmail.com or [Connect with me on LinkedIn](https://www.linkedin.com/in/raguilera994/)
